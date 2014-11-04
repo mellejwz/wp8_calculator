@@ -1,0 +1,14 @@
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\Bin\Debug\ApplicationIcon.png
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\Bin\Debug\Background.png
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\Bin\Debug\io.cordova.hellocordova.dll
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\Bin\Debug\io.cordova.hellocordova.pdb
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\Bin\Debug\AppManifest.xaml
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\obj\Debug\App.g.cs
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\obj\Debug\MainPage.g.cs
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\obj\Debug\io.cordova.hellocordova.g.resources
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\obj\Debug\io.cordova.hellocordova.dll
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\obj\Debug\io.cordova.hellocordova.pdb
+E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\myFirstApp\platforms\wp8\obj\Debug\XapCacheFile.xml
