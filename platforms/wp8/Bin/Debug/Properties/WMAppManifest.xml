@@ -4,7 +4,7 @@
   <Languages xmlns="">
     <Language code="en-US" />
   </Languages>
-  <App Author="HelloCordova author" BitsPerPixel="32" Description="Apache Cordova for Windows Phone" Genre="apps.normal" ProductID="{fc5a0a40-636a-11e4-9d2a-a3bd60f7c107}" Publisher="HelloCordova" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="HelloCordova" Version="0.0.1" xmlns="">
+  <App Author="Rekenmachine Author" BitsPerPixel="32" Description="Apache Cordova for Windows Phone" Genre="apps.normal" ProductID="{fc5a0a40-636a-11e4-9d2a-a3bd60f7c107}" Publisher="Rekenmachine Publisher" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="Rekenmachine" Version="0.0.1" xmlns="">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
@@ -14,7 +14,7 @@
       <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
     </Tasks>
     <Tokens>
-      <PrimaryToken TaskName="_default" TokenID="HelloCordovaToken">
+      <PrimaryToken TaskName="_default" TokenID="Rekenmachine">
         <TemplateFlip>
           <SmallImageURI IsRelative="true" IsResource="false">Background.png</SmallImageURI>
           <Count>0</Count>

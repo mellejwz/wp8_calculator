@@ -29,29 +29,25 @@
     </head>
     <body>
         <div id="container">
-        <form id="rekenmachine" name="rekenmachine">
-            <div id="display"><input id="vak1" type="text" name="vak1" readonly /></div>
-            <input class="cijfer" id="een" type="button" name="een" value="1" OnClick="rekenCijfer('1')" />
-            <input class="cijfer" id="twee" type="button" name="twee" value="2" OnClick="rekenCijfer('2')" />
-            <input class="cijfer" id="drie" type="button" name="drie" value="3" OnClick="rekenCijfer('3')" />
-            <input class="operator" id="plus" type="button" name="plus" value="+" OnClick="rekenTeken('+')" />
-            <input class="cijfer" id="vier" type="button" name="vier" value="4" OnClick="rekenCijfer('4')" />
-            <input class="cijfer" id="vijf" type="button" name="vijf" value="5" OnClick="rekenCijfer('5')" />
-            <input class="cijfer" id="zes" type="button" name="zes" value="6" OnClick="rekenCijfer('6')" />
-            <input class="operator" id="min" type="button" name="aftrekken" value="-" OnClick="rekenTeken('-')" />
-            <input class="cijfer" id="zeven" type="button" name="zeven" value="7" OnClick="rekenCijfer('7')" />
-            <input class="cijfer" id="acht" type="button" name="acht" value="8" OnClick="rekenCijfer('8')" />
-            <input class="cijfer" id="negen" type="button" name="negen" value="9" OnClick="rekenCijfer('9')" />
-            <input class="operator" id="keer" type="button" name="keer" value="x" OnClick="rekenTeken('*')" />
-            <input id="wis" type="button" OnClick="wisScherm()" value="C" />
-            <input class="cijfer" id="nul" type="button" name="nul" value="0" OnClick="rekenCijfer('0')" />
-            <input class="answer" type="button" name="is" value="=" OnClick="uitkomst()" />
-            <input class="operator" id="delen" type="button" name="delen" value="&#247" OnClick="rekenTeken('/')" />
-            <input class="operator" id="clear" type="button" name="clear" value="M-" OnClick="memoryClear()" />
-            <input class="operator" id="recall" type="button" name="recall" value="MR" OnClick="memoryRecall()" />
-            <input class="operator" id="memory" type="button" name="memory" value="M+" OnClick="memoryPlus()" />
-            <input class="operator" id="wortel" type="button" name="wortel" value="w" OnClick="wortelTrekken()" />
-        </form>
+            <form id="rekenmachine" name="display"><textarea id="display" type="text" name="som" readonly ></textarea><textarea id="antwoord" type="text" name="answer" readonly >test</textarea></form>
+            <div class="cijfer" OnClick="rekenCijfer('1')">
+            1</div><div class="cijfer" OnClick="rekenCijfer('2')">
+            2</div><div class="cijfer" OnClick="rekenCijfer('3')">
+            3</div><div class="cijfer" OnClick="rekenCijfer('4')">
+            4</div><div class="cijfer" OnClick="rekenCijfer('5')">
+            5</div><div class="cijfer" OnClick="rekenCijfer('6')">
+            6</div><div class="cijfer" OnClick="rekenCijfer('7')">
+            7</div><div class="cijfer" OnClick="rekenCijfer('8')">
+            8</div><div class="cijfer" OnClick="rekenCijfer('9')">
+            9</div><div id="wis" OnClick="wisScherm()">
+            C</div><div class="cijfer" OnClick="rekenCijfer('0')">
+            0</div><div id="answer" OnClick="uitkomst()">
+            =</div><div class="operator" OnClick="rekenTeken('+')">
+            +</div><div class="operator" OnClick="rekenTeken('-')">
+            -</div><div class="operator" OnClick="rekenTeken('*')">
+            x</div><div class="operator" OnClick="rekenTeken('/')">
+            &#247</div>
+            <!--<input class="operator" id="wortel" type="button" name="wortel" value="w" OnClick="wortelTrekken()" />-->
         </div>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
