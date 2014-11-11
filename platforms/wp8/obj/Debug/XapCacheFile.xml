@@ -1,24 +1,24 @@
-﻿<xapCache source="E:\Documenten\Git\wp_calculator\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10-11-2014 16:36:26">
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\obj\Debug\io.cordova.hellocordova.dll" archivePath="io.cordova.hellocordova.dll" lastWriteTime="4-11-2014 10:37:19" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="10-11-2014 16:36:25" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="10-11-2014 16:36:24" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="10-11-2014 16:36:25" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="10-11-2014 16:36:24" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="10-11-2014 16:36:24" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="10-11-2014 16:36:24" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="10-11-2014 16:36:24" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\VERSION" archivePath="VERSION" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4-11-2014 10:37:19" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Background.png" archivePath="Background.png" lastWriteTime="4-11-2014 10:31:56" />
-  <file source="E:\Documenten\Git\wp_calculator\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4-11-2014 13:24:31" />
+﻿<xapCache source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11-11-2014 21:25:19">
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\obj\Debug\io.cordova.hellocordova.dll" archivePath="io.cordova.hellocordova.dll" lastWriteTime="11-11-2014 21:25:18" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="11-11-2014 21:25:16" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="11-11-2014 21:25:15" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="11-11-2014 21:25:16" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="11-11-2014 21:25:15" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="11-11-2014 21:25:15" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="11-11-2014 21:25:15" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="11-11-2014 21:25:15" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\VERSION" archivePath="VERSION" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11-11-2014 21:25:19" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Background.png" archivePath="Background.png" lastWriteTime="11-11-2014 21:23:21" />
+  <file source="E:\Users\melle\Documents\school\niveau4\webontwikkeling\Cordova\wp8_calculator\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11-11-2014 21:23:21" />
 </xapCache>

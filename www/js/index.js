@@ -38,6 +38,13 @@
                 }
                 else if(som=="707+707"){
                     alert("hihi");
+                    
+                    document.getElementById('antwoord').value=answer;
+                    document.display.som.scrollLeft=document.display.som.scrollWidth;
+
+                    display.style.height="200px";
+                    display.style.whiteSpace="normal";
+                    display.setAttribute("onClick", "contract();");
                 }
                 else{
                     document.getElementById('antwoord').value=answer;
